@@ -1,0 +1,1 @@
+text("ice cream", 10, 20);
